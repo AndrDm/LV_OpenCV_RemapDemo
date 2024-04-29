@@ -1,0 +1,16 @@
+
+*.vsidx
+/LV_RemapOpenCV/.vs/LV_RemapOpenCV/v17
+*.pdb
+*.exp
+*.ipdb
+*.iobj
+*.log
+*.txt
+*.tlog
+*.obj
+*.recipe
+*.user
+*.filters
+*.aliases
+*.lvlps
