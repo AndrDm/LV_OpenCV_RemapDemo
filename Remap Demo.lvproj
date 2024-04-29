@@ -17,6 +17,7 @@
 			<Item Name="Grid 500.png" Type="Document" URL="../Grid 500.png"/>
 			<Item Name="Washers 500.png" Type="Document" URL="../Washers 500.png"/>
 		</Item>
+		<Item Name="Remap Demo both + ROIs.vi" Type="VI" URL="../Remap Demo both + ROIs.vi"/>
 		<Item Name="Remap Demo.vi" Type="VI" URL="../Remap Demo.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

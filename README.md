@@ -8,6 +8,10 @@ Code behind:
 
 ![](assets/snippet.png)
 
+When correction applied to the grid as well and with some manually placed ROIs:
+
+![](assets/Screenshot 2024-04-29 13.50.49.png)
+
 C Code for Library Call:
 
 ```c
